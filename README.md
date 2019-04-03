@@ -1,5 +1,5 @@
 # DEA---An-lise-Envolt-ria-de-Dados-em-R
-Script em R para análise envoltório de dados - dado contábil de 92 municipios do RJ - eficiência de arrecadação de imposto
+Script em R para análise envoltória de dados - dado contábil de 92 municipios do RJ - eficiência de arrecadação de imposto
 #script R - cristiane justen 
 
 #limpar workspace
